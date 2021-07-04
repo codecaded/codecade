@@ -1,6 +1,6 @@
 # codecade
 
-Starting today I mark the beginning of a new project named CoDecade, whose sole purpose is to build a pool of people and resources, bring together a community of people I want to be with, see, and grow together in the long run, while utilising code, thus the name, Code Decade.
+Starting today, I, with the help of my friends, mark the beginning of a new project named CoDecade, whose sole purpose is to build a pool of people and resources, bring together a community of people I want to be with, see, and grow together in the long run, while utilising code, thus the name, Code Decade.
 
 ## Welcome to the Resource Pool
 
